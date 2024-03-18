@@ -1,0 +1,9 @@
+/.conda
+/.vscode
+/F_MNIST
+/F_MNIST_data
+/Solutions
+/TestData
+
+/FlowersClassification/checkpoints
+/FlowersClassification/flowers
